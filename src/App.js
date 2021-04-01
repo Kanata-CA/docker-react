@@ -17,7 +17,7 @@ function App() {
         >
           Learn Reacts
         </a>
-        <p>Hi there!</p>
+        <p>I changed to feature branch.</p>
       </header>
     </div>
   );
